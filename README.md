@@ -4,3 +4,7 @@
 
 ## 프로토타입 시연 영상 👇🏻
 https://youtube.com/shorts/wfHJEiggvAI?feature=share
+
+### 다른 사항은 
+https://github.com/SM-Wellness
+
