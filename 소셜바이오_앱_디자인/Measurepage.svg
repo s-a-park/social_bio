@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="760" viewBox="0 0 360 760">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Measurepage);
+      }
+
+      .cls-2 {
+        fill: #5fff53;
+        font-size: 40px;
+        font-family: BinggraeII-Bold, BinggraeⅡ;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Measurepage">
+      <rect width="360" height="760"/>
+    </clipPath>
+  </defs>
+  <g id="Measurepage" class="cls-1">
+    <rect class="cls-3" width="360" height="760"/>
+    <rect id="measurepage_back" width="360" height="760"/>
+    <text id="measure_text" class="cls-2" transform="translate(76 65)"><tspan x="0" y="0">측정중 · · ·</tspan></text>
+    <rect id="wave" class="cls-3" width="360" height="406" transform="translate(0 118)"/>
+  </g>
+</svg>

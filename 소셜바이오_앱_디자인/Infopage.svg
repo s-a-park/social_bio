@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="760" viewBox="0 0 360 760">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Infopage);
+      }
+
+      .cls-2 {
+        fill: #fff0d1;
+      }
+
+      .cls-3 {
+        fill: #298c35;
+        font-size: 34px;
+        font-family: BinggraeII-Bold, BinggraeⅡ;
+      }
+
+      .cls-3, .cls-5, .cls-7, .cls-9 {
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: #f3caff;
+      }
+
+      .cls-5 {
+        font-size: 25px;
+      }
+
+      .cls-5, .cls-7, .cls-9 {
+        font-family: Binggrae-Bold, Binggrae;
+      }
+
+      .cls-12, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        stroke: #707070;
+      }
+
+      .cls-7 {
+        font-size: 23px;
+      }
+
+      .cls-8 {
+        fill: #bee0f7;
+      }
+
+      .cls-9 {
+        font-size: 22px;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+
+      .cls-11 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Infopage">
+      <rect width="360" height="760"/>
+    </clipPath>
+  </defs>
+  <g id="Infopage" class="cls-1">
+    <rect class="cls-12" width="360" height="760"/>
+    <rect id="info_back" class="cls-2" width="360" height="760"/>
+    <text id="info_me__text" class="cls-3" transform="translate(127 51)"><tspan x="0" y="0">내 정보</tspan></text>
+    <rect id="info_back-2" data-name="info_back" class="cls-4" width="305" height="316" rx="57" transform="translate(28 232)"/>
+    <text id="name_text" class="cls-5" transform="translate(53 288)"><tspan x="0" y="0">성별: </tspan></text>
+    <g id="name_textarea" class="cls-6" transform="translate(131 263)">
+      <rect class="cls-10" width="178" height="33" rx="16.5"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="177" height="32" rx="16"/>
+    </g>
+    <text id="name_text-2" data-name="name_text" class="cls-5" transform="translate(78 347)"><tspan x="0" y="0">키: </tspan></text>
+    <g id="name_textarea-2" data-name="name_textarea" class="cls-6" transform="translate(131 322)">
+      <rect class="cls-10" width="178" height="33" rx="16.5"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="177" height="32" rx="16"/>
+    </g>
+    <text id="name_text-3" data-name="name_text" class="cls-5" transform="translate(46 406)"><tspan x="0" y="0">천식 :</tspan><tspan x="0" y="33">진단일 </tspan></text>
+    <g id="name_textarea-3" data-name="name_textarea" class="cls-6" transform="translate(131 387)">
+      <rect class="cls-10" width="178" height="117" rx="21"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="177" height="116" rx="20.5"/>
+    </g>
+    <text id="name_text-4" data-name="name_text" class="cls-7" transform="translate(116 123)"><tspan x="0" y="0">이름: </tspan></text>
+    <text id="name_text-5" data-name="name_text" class="cls-7" transform="translate(116 168)"><tspan x="0" y="0">나이: </tspan></text>
+    <g id="name_textarea-4" data-name="name_textarea" class="cls-6" transform="translate(188 145)">
+      <rect class="cls-10" width="165" height="30" rx="15"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="164" height="29" rx="14.5"/>
+    </g>
+    <g id="name_textarea-5" data-name="name_textarea" class="cls-6" transform="translate(188 100)">
+      <rect class="cls-10" width="165" height="31" rx="15.5"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="164" height="30" rx="15"/>
+    </g>
+    <g id="user_img" class="cls-6" transform="translate(5 85)">
+      <circle class="cls-10" cx="53" cy="53" r="53"/>
+      <circle class="cls-11" cx="53" cy="53" r="52.5"/>
+    </g>
+    <g id="btn_re_info" transform="translate(-64 268)">
+      <rect id="btn_re_info-2" data-name="btn_re_info" class="cls-8" width="146" height="53" rx="26.5" transform="translate(95 334)"/>
+      <text id="btn_re_text" class="cls-9" transform="translate(125 368)"><tspan x="0" y="0">수정하기</tspan></text>
+    </g>
+    <g id="btn_info_back" transform="translate(94 268)">
+      <rect id="btn_info_back-2" data-name="btn_info_back" class="cls-8" width="146" height="53" rx="26.5" transform="translate(95 334)"/>
+      <text id="btn_info_back_text" class="cls-9" transform="translate(125 368)"><tspan x="0" y="0">뒤로가기</tspan></text>
+    </g>
+  </g>
+</svg>

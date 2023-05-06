@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="760" viewBox="0 0 360 760">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Personalpage);
+      }
+
+      .cls-2 {
+        fill: #a9d4d9;
+      }
+
+      .cls-3 {
+        fill: #fbaaa7;
+      }
+
+      .cls-4 {
+        fill: #f1f6b4;
+      }
+
+      .cls-5 {
+        fill: #afdcbd;
+      }
+
+      .cls-6 {
+        font-size: 31px;
+        font-family: S-CoreDream-6Bold, 'S-Core Dream \36 ';
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        font-size: 25px;
+        font-family: Binggrae-Bold, Binggrae;
+      }
+
+      .cls-8 {
+        fill: #298c35;
+        font-size: 34px;
+        font-family: BinggraeII-Bold, BinggraeⅡ;
+      }
+
+      .cls-13, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        stroke: #707070;
+      }
+
+      .cls-10 {
+        fill: #ffeace;
+      }
+
+      .cls-11 {
+        stroke: none;
+      }
+
+      .cls-12 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Personalpage">
+      <rect width="360" height="760"/>
+    </clipPath>
+  </defs>
+  <g id="Personalpage" class="cls-1">
+    <rect class="cls-13" width="360" height="760"/>
+    <rect id="info_back" class="cls-2" width="305" height="415" rx="57" transform="translate(30 96)"/>
+    <ellipse id="deco2" class="cls-3" cx="116" cy="104" rx="116" ry="104" transform="translate(219 601)"/>
+    <ellipse id="deco1" class="cls-4" cx="58.5" cy="61.5" rx="58.5" ry="61.5" transform="translate(-17 -37)"/>
+    <g id="btn">
+      <rect id="btn-2" data-name="btn" class="cls-5" width="201" height="72" rx="36" transform="translate(83 592)"/>
+      <text id="btn_text" class="cls-6" transform="translate(123 638)"><tspan x="0" y="0">이용하기</tspan></text>
+    </g>
+    <text id="name_text" class="cls-7" transform="translate(52 145)"><tspan x="0" y="0">이름: </tspan></text>
+    <text id="info_text" class="cls-8" transform="translate(81 51)"><tspan x="0" y="0">개인정보 입력</tspan></text>
+    <g id="name_textarea" class="cls-9" transform="translate(130 120)">
+      <rect class="cls-11" width="178" height="33" rx="16.5"/>
+      <rect class="cls-12" x="0.5" y="0.5" width="177" height="32" rx="16"/>
+    </g>
+    <text id="name_text-2" data-name="name_text" class="cls-7" transform="translate(52 204)"><tspan x="0" y="0">나이: </tspan></text>
+    <g id="name_textarea-2" data-name="name_textarea" class="cls-9" transform="translate(130 179)">
+      <rect class="cls-11" width="178" height="33" rx="16.5"/>
+      <rect class="cls-12" x="0.5" y="0.5" width="177" height="32" rx="16"/>
+    </g>
+    <text id="name_text-3" data-name="name_text" class="cls-7" transform="translate(52 263)"><tspan x="0" y="0">성별: </tspan></text>
+    <g id="name_textarea-3" data-name="name_textarea" class="cls-9" transform="translate(130 238)">
+      <rect class="cls-11" width="178" height="33" rx="16.5"/>
+      <rect class="cls-12" x="0.5" y="0.5" width="177" height="32" rx="16"/>
+    </g>
+    <text id="name_text-4" data-name="name_text" class="cls-7" transform="translate(77 322)"><tspan x="0" y="0">키: </tspan></text>
+    <g id="name_textarea-4" data-name="name_textarea" class="cls-9" transform="translate(130 297)">
+      <rect class="cls-11" width="178" height="33" rx="16.5"/>
+      <rect class="cls-12" x="0.5" y="0.5" width="177" height="32" rx="16"/>
+    </g>
+    <text id="name_text-5" data-name="name_text" class="cls-7" transform="translate(45 381)"><tspan x="0" y="0">천식 :</tspan><tspan x="0" y="33">진단일 </tspan></text>
+    <g id="name_textarea-5" data-name="name_textarea" class="cls-9" transform="translate(130 362)">
+      <rect class="cls-11" width="178" height="117" rx="21"/>
+      <rect class="cls-12" x="0.5" y="0.5" width="177" height="116" rx="20.5"/>
+    </g>
+    <ellipse id="deco1-2" data-name="deco1" class="cls-10" cx="58.5" cy="61.5" rx="58.5" ry="61.5" transform="translate(145 690)"/>
+  </g>
+</svg>

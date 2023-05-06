@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="760" viewBox="0 0 360 760">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Graphpage);
+      }
+
+      .cls-2 {
+        fill: #e7edff;
+      }
+
+      .cls-3 {
+        fill: #afdcbd;
+      }
+
+      .cls-4, .cls-6 {
+        font-size: 31px;
+      }
+
+      .cls-4, .cls-8 {
+        font-family: S-CoreDream-6Bold, 'S-Core Dream \36 ';
+        font-weight: 700;
+      }
+
+      .cls-11, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        stroke: #707070;
+      }
+
+      .cls-6 {
+        font-family: MaplestoryLight, Maplestory;
+      }
+
+      .cls-7 {
+        fill: #ffb6e4;
+      }
+
+      .cls-8 {
+        font-size: 25px;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+
+      .cls-10 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Graphpage">
+      <rect width="360" height="760"/>
+    </clipPath>
+  </defs>
+  <g id="Graphpage" class="cls-1">
+    <rect class="cls-11" width="360" height="760"/>
+    <rect id="graph_back" class="cls-2" width="360" height="760"/>
+    <g id="btn_back" transform="translate(0 46)">
+      <rect id="btn_back-2" data-name="btn_back" class="cls-3" width="201" height="72" rx="36" transform="translate(83 592)"/>
+      <text id="btn_back_text" class="cls-4" transform="translate(123 638)"><tspan x="0" y="0">뒤로가기</tspan></text>
+    </g>
+    <g id="graph_box" class="cls-5" transform="translate(17 21)">
+      <rect class="cls-9" width="327" height="412" rx="41"/>
+      <rect class="cls-10" x="0.5" y="0.5" width="326" height="411" rx="40.5"/>
+    </g>
+    <text id="day_text" class="cls-6" transform="translate(19 477)"><tspan x="0" y="0">날짜 설정</tspan></text>
+    <g id="cal" class="cls-5" transform="translate(53 504)">
+      <rect class="cls-9" width="118" height="93" rx="23"/>
+      <rect class="cls-10" x="0.5" y="0.5" width="117" height="92" rx="22.5"/>
+    </g>
+    <g id="cal2" class="cls-5" transform="translate(205 504)">
+      <rect class="cls-9" width="118" height="93" rx="23"/>
+      <rect class="cls-10" x="0.5" y="0.5" width="117" height="92" rx="22.5"/>
+    </g>
+    <g id="btn_sel" transform="translate(138 -146)">
+      <rect id="btn_sel-2" data-name="btn_sel" class="cls-7" width="126" height="45" rx="22.5" transform="translate(83 592)"/>
+      <text id="btn_sel_text" class="cls-8" transform="translate(122 625)"><tspan x="0" y="0">검색</tspan></text>
+    </g>
+  </g>
+</svg>

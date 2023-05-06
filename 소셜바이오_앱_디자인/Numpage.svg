@@ -1,0 +1,211 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="760" viewBox="0 0 360 760">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Numpage);
+      }
+
+      .cls-3 {
+        opacity: 0.62;
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #cfc5ff;
+      }
+
+      .cls-5 {
+        fill: #c5fff1;
+      }
+
+      .cls-6 {
+        fill: #ffc5de;
+        opacity: 0.9;
+      }
+
+      .cls-7 {
+        fill: #fdffc5;
+      }
+
+      .cls-8 {
+        fill: #7053ff;
+        font-size: 50px;
+        font-family: Cafe24Oneprettynight, Cafe24 Oneprettynight;
+      }
+
+      .cls-9 {
+        fill: #c5ffdb;
+      }
+
+      .cls-10 {
+        font-size: 25px;
+        font-family: Binggrae-Bold, Binggrae;
+      }
+
+      .cls-10, .cls-13 {
+        font-weight: 700;
+      }
+
+      .cls-11, .cls-15 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        stroke: #707070;
+      }
+
+      .cls-12 {
+        fill: #afdcbd;
+      }
+
+      .cls-13 {
+        font-size: 31px;
+        font-family: S-CoreDream-6Bold, 'S-Core Dream \36 ';
+      }
+
+      .cls-14 {
+        stroke: none;
+      }
+
+      .cls-16 {
+        filter: url(#today_text);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="394.275" height="796.798"/>
+    </clipPath>
+    <filter id="today_text" x="55" y="64" width="250" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Numpage">
+      <rect width="360" height="760"/>
+    </clipPath>
+  </defs>
+  <g id="Numpage" class="cls-2">
+    <rect class="cls-15" width="360" height="760"/>
+    <g id="num_back" class="cls-3" transform="translate(-28.275 -23.798)">
+      <g transform="translate(-91.725 -450.202)">
+        <path id="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(62.275 -450.202)">
+        <path id="deco7-2" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-2" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-2" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-2" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(216.275 -450.202)">
+        <path id="deco7-3" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-3" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-3" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-3" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(-91.725 -290.202)">
+        <path id="deco7-4" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-4" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-4" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-4" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(62.275 -290.202)">
+        <path id="deco7-5" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-5" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-5" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-5" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(216.275 -290.202)">
+        <path id="deco7-6" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-6" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-6" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-6" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(-91.725 -130.202)">
+        <path id="deco7-7" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-7" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-7" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-7" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(62.275 -130.202)">
+        <path id="deco7-8" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-8" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-8" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-8" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(216.275 -130.202)">
+        <path id="deco7-9" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-9" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-9" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-9" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(-91.725 29.798)">
+        <path id="deco7-10" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-10" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-10" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-10" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(62.275 29.798)">
+        <path id="deco7-11" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-11" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-11" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-11" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(216.275 29.798)">
+        <path id="deco7-12" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-12" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-12" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-12" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(-91.725 189.798)">
+        <path id="deco7-13" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-13" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-13" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-13" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(62.275 189.798)">
+        <path id="deco7-14" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-14" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-14" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-14" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+      <g transform="translate(216.275 189.798)">
+        <path id="deco7-15" data-name="deco7" class="cls-4" d="M19.5,0,39,39H0Z" transform="translate(91.725 523.225) rotate(-30)"/>
+        <path id="deco8-15" data-name="deco8" class="cls-5" d="M18.845,0,37.691,27.579H0Z" transform="translate(204.227 539.399) rotate(-130)"/>
+        <path id="deco9-15" data-name="deco9" class="cls-6" d="M17.5,0,35,33H0Z" transform="translate(145 557)"/>
+        <path id="deco10-15" data-name="deco10" class="cls-7" d="M17.5,0,35,33H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 130.325, 450.202)"/>
+      </g>
+    </g>
+    <g class="cls-16" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <text id="today_text-2" data-name="today_text" class="cls-8" transform="translate(70 74)"><tspan x="3.5" y="40">오늘의 수치</tspan></text>
+    </g>
+    <g id="num" transform="translate(0 63)">
+      <rect id="num_text_back" class="cls-9" width="319" height="198" rx="48" transform="translate(25 114)"/>
+      <text id="length_text" class="cls-10" transform="translate(35 176)"><tspan x="0" y="0">최대 길이: </tspan></text>
+      <g id="length_textarea" class="cls-11" transform="translate(159 151)">
+        <rect class="cls-14" width="178" height="33" rx="16.5"/>
+        <rect class="cls-1" x="0.5" y="0.5" width="177" height="32" rx="16"/>
+      </g>
+      <text id="speed_text" class="cls-10" transform="translate(35 255)"><tspan x="0" y="0">최대 속도: </tspan></text>
+      <g id="speed_textarea" class="cls-11" transform="translate(159 230)">
+        <rect class="cls-14" width="178" height="33" rx="16.5"/>
+        <rect class="cls-1" x="0.5" y="0.5" width="177" height="32" rx="16"/>
+      </g>
+    </g>
+    <g id="btn_graph" transform="translate(0 -96)">
+      <rect id="btn_graph-2" data-name="btn_graph" class="cls-12" width="201" height="72" rx="36" transform="translate(83 592)"/>
+      <text id="btn_graph_text" class="cls-13" transform="translate(105 641)"><tspan x="0" y="0">그래프 보기</tspan></text>
+    </g>
+    <g id="btn_back" transform="translate(0 19)">
+      <rect id="btn_back-2" data-name="btn_back" class="cls-12" width="201" height="72" rx="36" transform="translate(83 592)"/>
+      <text id="btn_back_text" class="cls-13" transform="translate(123 638)"><tspan x="0" y="0">뒤로가기</tspan></text>
+    </g>
+  </g>
+</svg>

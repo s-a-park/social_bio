@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="760" viewBox="0 0 360 760">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Measure_fin_page);
+      }
+
+      .cls-2 {
+        fill: #f7a5de;
+      }
+
+      .cls-3 {
+        fill: #ced6ff;
+      }
+
+      .cls-4 {
+        fill: #f6f6b4;
+      }
+
+      .cls-5 {
+        fill: #efc4fc;
+      }
+
+      .cls-6 {
+        fill: #b4f6bb;
+      }
+
+      .cls-7 {
+        fill: #5fff53;
+        font-size: 40px;
+        font-family: GmarketSansTTFMedium, Gmarket Sans TTF;
+      }
+
+      .cls-8 {
+        fill: #afdcbd;
+      }
+
+      .cls-9 {
+        font-size: 31px;
+        font-family: S-CoreDream-6Bold, 'S-Core Dream \36 ';
+        font-weight: 700;
+      }
+
+      .cls-10 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Measure_fin_page">
+      <rect width="360" height="760"/>
+    </clipPath>
+  </defs>
+  <g id="Measure_fin_page" class="cls-1">
+    <rect class="cls-10" width="360" height="760"/>
+    <ellipse id="deco5" class="cls-2" cx="116" cy="104" rx="116" ry="104" transform="translate(219 601)"/>
+    <ellipse id="deco4" class="cls-3" cx="58.5" cy="61.5" rx="58.5" ry="61.5" transform="translate(145 690)"/>
+    <ellipse id="deco1" class="cls-4" cx="58.5" cy="61.5" rx="58.5" ry="61.5" transform="translate(-17 -37)"/>
+    <ellipse id="deco6" class="cls-5" cx="106.5" cy="116" rx="106.5" ry="116" transform="translate(194 -69)"/>
+    <ellipse id="deco3" class="cls-6" cx="58.5" cy="61.5" rx="58.5" ry="61.5" transform="translate(-42 460)"/>
+    <text id="측정이_완료되었습니다" data-name="측정이 
+완료되었습니다" class="cls-7" transform="translate(180 282)"><tspan x="-63.32" y="0">측정이 </tspan><tspan x="-134.68" y="46">완료되었습니다</tspan></text>
+    <g id="btn_mea_fin">
+      <rect id="btn_mea_fin-2" data-name="btn_mea_fin" class="cls-8" width="201" height="72" rx="36" transform="translate(83 592)"/>
+      <text id="btn_mea_fin_text" class="cls-9" transform="translate(123 638)"><tspan x="0" y="0">보러가기</tspan></text>
+    </g>
+  </g>
+</svg>

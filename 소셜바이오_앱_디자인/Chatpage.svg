@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="760" viewBox="0 0 360 760">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Chatpage);
+      }
+
+      .cls-2, .cls-6 {
+        font-size: 24px;
+      }
+
+      .cls-2, .cls-7 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-3, .cls-6 {
+        font-family: MalgunGothic, Malgun Gothic;
+      }
+
+      .cls-4 {
+        fill: #5983e4;
+      }
+
+      .cls-12, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-5, .cls-9 {
+        stroke: #707070;
+      }
+
+      .cls-8 {
+        fill: #f1fc85;
+      }
+
+      .cls-9 {
+        fill: #ffff9f;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+
+      .cls-11 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Chatpage">
+      <rect width="360" height="760"/>
+    </clipPath>
+  </defs>
+  <g id="Chatpage" class="cls-1">
+    <rect class="cls-12" width="360" height="760"/>
+    <text id="back" class="cls-2" transform="translate(9 35)"><tspan x="0" y="0">&lt; </tspan><tspan class="cls-3" y="0">뒤로가기</tspan></text>
+    <rect id="talk_back" class="cls-4" width="360" height="660" transform="translate(0 48)"/>
+    <g id="send_box" class="cls-5" transform="translate(0 708)">
+      <rect class="cls-10" width="360" height="52"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="359" height="51"/>
+    </g>
+    <text id="chat_text" class="cls-6" transform="translate(44 741)"><tspan x="0" y="0">채팅</tspan><tspan class="cls-7" y="0"> </tspan><tspan y="0">채팅</tspan></text>
+    <rect id="send_btn" class="cls-8" width="86" height="38" rx="19" transform="translate(266 716)"/>
+    <text id="send_text" class="cls-6" transform="translate(287 743)"><tspan x="0" y="0">전송</tspan></text>
+    <g id="mal1" class="cls-5" transform="translate(11 76)">
+      <rect class="cls-10" width="220" height="84" rx="21"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="219" height="83" rx="20.5"/>
+    </g>
+    <g id="mal3" class="cls-5" transform="translate(11 252)">
+      <rect class="cls-10" width="220" height="119" rx="21"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="219" height="118" rx="20.5"/>
+    </g>
+    <g id="mal2" class="cls-9" transform="translate(132 176)">
+      <rect class="cls-10" width="220" height="60" rx="21"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="219" height="59" rx="20.5"/>
+    </g>
+    <g id="mal4" class="cls-9" transform="translate(132 387)">
+      <rect class="cls-10" width="220" height="60" rx="21"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="219" height="59" rx="20.5"/>
+    </g>
+    <g id="mal5" class="cls-5" transform="translate(11 463)">
+      <rect class="cls-10" width="220" height="48" rx="21"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="219" height="47" rx="20.5"/>
+    </g>
+    <g id="mal6" class="cls-9" transform="translate(132 527)">
+      <rect class="cls-10" width="220" height="118" rx="21"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="219" height="117" rx="20.5"/>
+    </g>
+  </g>
+</svg>

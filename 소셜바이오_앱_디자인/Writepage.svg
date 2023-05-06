@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="760" viewBox="0 0 360 760">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Writepage);
+      }
+
+      .cls-11, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #707070;
+      }
+
+      .cls-3, .cls-7 {
+        font-size: 24px;
+      }
+
+      .cls-3, .cls-5, .cls-6, .cls-8 {
+        font-family: MalgunGothic, Malgun Gothic;
+      }
+
+      .cls-4, .cls-7 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-5 {
+        font-size: 18px;
+      }
+
+      .cls-6 {
+        font-size: 17px;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+
+      .cls-10 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Writepage">
+      <rect width="360" height="760"/>
+    </clipPath>
+  </defs>
+  <g id="Writepage" class="cls-1">
+    <rect class="cls-11" width="360" height="760"/>
+    <g id="pid_detail" transform="translate(0 -45)">
+      <g id="pid_detail_back" class="cls-2" transform="translate(25 110)">
+        <rect class="cls-9" width="311" height="433" rx="23"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="310" height="432" rx="22.5"/>
+      </g>
+      <g id="user_img" class="cls-2" transform="translate(36 115)">
+        <circle class="cls-9" cx="31.5" cy="31.5" r="31.5"/>
+        <circle class="cls-10" cx="31.5" cy="31.5" r="31"/>
+      </g>
+      <g id="title_detail_box" class="cls-2" transform="translate(120 126)">
+        <rect class="cls-9" width="195" height="37"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="194" height="36"/>
+      </g>
+      <text id="title_detail_text" class="cls-3" transform="translate(125 155)"><tspan x="0" y="0">제목</tspan></text>
+      <g id="con_detail_box" class="cls-2" transform="translate(56 185)">
+        <rect class="cls-9" width="268" height="340"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="267" height="339"/>
+      </g>
+      <text id="title_detail_text-2" data-name="title_detail_text" class="cls-3" transform="translate(72 227)"><tspan x="0" y="0">내용</tspan><tspan class="cls-4" y="0"> </tspan><tspan y="0">내용</tspan><tspan class="cls-4" y="0"> </tspan><tspan y="0">내용</tspan></text>
+    </g>
+    <g id="redat" transform="translate(6 406)">
+      <g id="re_back" class="cls-2" transform="translate(25 110)">
+        <rect class="cls-9" width="239" height="105" rx="23"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="238" height="104" rx="22.5"/>
+      </g>
+      <g id="user_img-2" data-name="user_img" class="cls-2" transform="translate(33 114)">
+        <ellipse class="cls-9" cx="24.5" cy="24" rx="24.5" ry="24"/>
+        <ellipse class="cls-10" cx="24.5" cy="24" rx="24" ry="23.5"/>
+      </g>
+      <text id="re_user" class="cls-5" transform="translate(89 146)"><tspan x="0" y="0">닉네임</tspan></text>
+      <g id="re_box" class="cls-2" transform="translate(49 172)">
+        <rect class="cls-9" width="206" height="29"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="205" height="28"/>
+      </g>
+      <text id="re_text" class="cls-5" transform="translate(80 195)"><tspan x="0" y="0">댓글</tspan></text>
+    </g>
+    <g id="redat-2" data-name="redat" transform="translate(6 535)">
+      <g id="re_back-2" data-name="re_back" class="cls-2" transform="translate(25 110)">
+        <rect class="cls-9" width="239" height="104" rx="23"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="238" height="103" rx="22.5"/>
+      </g>
+      <g id="user_img-3" data-name="user_img" class="cls-2" transform="translate(34 114)">
+        <ellipse class="cls-9" cx="24" cy="24.5" rx="24" ry="24.5"/>
+        <ellipse class="cls-10" cx="24" cy="24.5" rx="23.5" ry="24"/>
+      </g>
+      <text id="re_user-2" data-name="re_user" class="cls-6" transform="translate(88 146)"><tspan x="0" y="0">닉네임</tspan></text>
+      <g id="re_box-2" data-name="re_box" class="cls-2" transform="translate(48 172)">
+        <rect class="cls-9" width="207" height="29"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="206" height="28"/>
+      </g>
+      <text id="re_text-2" data-name="re_text" class="cls-6" transform="translate(80 193)"><tspan x="0" y="0">댓글</tspan></text>
+    </g>
+    <text id="back" class="cls-7" transform="translate(9 35)"><tspan x="0" y="0">&lt; </tspan><tspan class="cls-8" y="0">뒤로가기</tspan></text>
+  </g>
+</svg>
